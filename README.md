@@ -90,7 +90,7 @@ projeto-aplicado/
 ### 1️ Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Projeto-Aplicado.git
+git clone https://github.com/Leonardo-Gaspar/Projeto-Aplicado-.git
 cd Projeto-Aplicado
 ```
 
