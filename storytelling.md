@@ -1,8 +1,8 @@
-# 📊 Storytelling — Análise PETR4 e Mercado Energético
+# Storytelling — Análise PETR4 e Mercado Energético
 
 ---
 
-# 🌎 1. Contextualização
+# 1. Contextualização
 
 O setor energético possui forte impacto na economia global, influenciando diretamente mercados financeiros e grandes empresas do setor petrolífero. Nesse cenário, a Petrobras se destaca como uma das maiores empresas brasileiras, sendo altamente sensível às oscilações econômicas e energéticas.
 
@@ -17,7 +17,7 @@ Dessa forma, analisar os dados históricos da PETR4 permite compreender padrões
 
 ---
 
-# 🎯 2. Problema Investigado
+# 2. Problema Investigado
 
 O projeto busca compreender o comportamento das ações PETR4 ao longo do tempo, respondendo questões como:
 
@@ -30,13 +30,13 @@ Além disso, o estudo procura identificar tendências que possam servir como bas
 
 ---
 
-# 🗂️ 3. Coleta e Preparação dos Dados
+# 3. Coleta e Preparação dos Dados
 
 Os dados históricos das ações **PETR4** foram obtidos através do Kaggle e armazenados em formato CSV.
 
 Durante a preparação dos dados foram realizadas etapas fundamentais para garantir maior confiabilidade da análise:
 
-## 🔧 Tratamento realizado
+## Tratamento realizado
 
 - Conversão da coluna de datas para formato `datetime`
 - Verificação de valores nulos
@@ -48,23 +48,23 @@ Essas etapas permitiram melhorar a qualidade e organização dos dados utilizado
 
 ---
 
-# 📈 4. Análise Exploratória dos Dados (EDA)
+# 4. Análise Exploratória dos Dados (EDA)
 
 A análise exploratória permitiu identificar padrões importantes no comportamento das ações PETR4.
 
-## 📌 Evolução do preço de fechamento
+## Evolução do preço de fechamento
 
 O preço de fechamento apresentou períodos de crescimento e queda ao longo do tempo, evidenciando a volatilidade característica do setor energético.
 
-## 📌 Volume de negociações
+## Volume de negociações
 
 O volume negociado apresentou oscilações significativas, indicando momentos de maior interesse e movimentação do mercado financeiro.
 
-## 📌 Relação entre os preços
+## Relação entre os preços
 
 Os preços de abertura, fechamento, máxima e mínima apresentaram forte correlação entre si, demonstrando consistência no comportamento diário do ativo.
 
-## 📌 Volatilidade
+## Volatilidade
 
 A variação percentual dos preços evidenciou períodos de alta volatilidade, possivelmente relacionados a fatores externos, como:
 
@@ -74,7 +74,7 @@ A variação percentual dos preços evidenciou períodos de alta volatilidade, p
 
 ---
 
-# 💡 5. Principais Insights
+# 5. Principais Insights
 
 A análise permitiu identificar padrões relevantes sobre o comportamento da PETR4:
 
@@ -86,7 +86,7 @@ A análise permitiu identificar padrões relevantes sobre o comportamento da PET
 
 ---
 
-# ⚠️ 6. Limitações do Projeto
+# 6. Limitações do Projeto
 
 Apesar dos resultados obtidos, o projeto apresenta algumas limitações importantes:
 
@@ -97,7 +97,7 @@ Apesar dos resultados obtidos, o projeto apresenta algumas limitações importan
 
 ---
 
-# 🚀 7. Próximos Passos
+# 7. Próximos Passos
 
 Como continuidade do projeto, poderão ser desenvolvidas análises mais avançadas, como:
 
@@ -109,7 +109,7 @@ Como continuidade do projeto, poderão ser desenvolvidas análises mais avançad
 
 ---
 
-# 📚 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -120,7 +120,7 @@ Como continuidade do projeto, poderão ser desenvolvidas análises mais avançad
 
 ---
 
-# 📌 Conclusão
+# Conclusão
 
 A análise exploratória permitiu compreender melhor o comportamento das ações PETR4, identificando padrões de volatilidade, tendências temporais e relações entre variáveis financeiras.
 
